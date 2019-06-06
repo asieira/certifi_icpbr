@@ -1,4 +1,4 @@
-[![PyPI version](https://badge.fury.io/py/certifi_icpbr.svg)](https://badge.fury.io/py/certifi_icpbr)
+[![PyPI version](https://badge.fury.io/py/certifi-icpbr.svg)](https://badge.fury.io/py/certifi-icpbr)
 
 # certifi + ICP Brasil
 
