@@ -1,4 +1,4 @@
-[![PyPI version](https://badge.fury.io/py/certifi-icpbr.svg)](https://badge.fury.io/py/certifi-icpbr)
+[![PyPI version](https://badge.fury.io/py/certifi-icpbr.svg)](https://badge.fury.io/py/certifi-icpbr) [![Build Status](https://travis-ci.org/asieira/certifi_icpbr.svg?branch=master)](https://travis-ci.org/asieira/certifi_icpbr)
 
 # certifi + ICP Brasil
 
