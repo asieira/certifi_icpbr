@@ -2,6 +2,5 @@ pylint
 cheesecake
 pypandoc
 pytest
-pytest-runner
 setuptools
 coverage
