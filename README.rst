@@ -1,4 +1,4 @@
-|PyPI version|
+|PyPI version| |Build Status|
 
 .. _certifi--icp-brasil:
 
@@ -102,5 +102,7 @@ same example using that approach:
    >>> requests.get('https://portalunico.siscomex.gov.br/')
    <Response [200]>
 
-.. |PyPI version| image:: https://badge.fury.io/py/certifi_icpbr.svg
-   :target: https://badge.fury.io/py/certifi_icpbr
+.. |PyPI version| image:: https://badge.fury.io/py/certifi-icpbr.svg
+   :target: https://badge.fury.io/py/certifi-icpbr
+.. |Build Status| image:: https://travis-ci.org/asieira/certifi_icpbr.svg?branch=master
+   :target: https://travis-ci.org/asieira/certifi_icpbr
