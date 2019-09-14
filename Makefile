@@ -7,7 +7,7 @@ README.rst: README.md
 gencerts:
 	./gencerts.sh
 
-sdist: README.rst gencerts
+sdist: README.rst gencerts test
 	python setup.py clean
 	rm dist/*
 	python setup.py sdist
@@ -17,3 +17,6 @@ pypi: sdist
 
 pypitest: sdist
 	twine upload -r pypitest dist/*
+
+test:
+	python setup.py test
