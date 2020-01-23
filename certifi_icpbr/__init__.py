@@ -1,3 +1,3 @@
-__version__ = '2019.12.2'
+__version__ = '2020.1.23'
 
 from .core import where, patch_requests, unpatch_requests
