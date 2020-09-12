@@ -4,3 +4,4 @@ pypandoc
 pytest
 setuptools
 coverage
+twine
