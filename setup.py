@@ -42,7 +42,7 @@ setup(
     version=__version__,
     url='https://github.com/asieira/certifi_icpbr/',
     license='Apache Software License',
-    install_requires=['requests>=1.0.4'],
+    install_requires=['requests>=2'],
     tests_require=['pytest'],
     cmdclass = {'test': PyTest},
     packages=['certifi_icpbr'],
