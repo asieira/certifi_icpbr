@@ -1,9 +1,10 @@
 import io
 import sys
-
 from setuptools import setup
 from setuptools.command.test import test as TestCommand
-from certifi_icpbr import __version__
+from os.path import join
+
+exec(open(join('certifi_icpbr','version.py')).read())
 
 class PyTest(TestCommand):
     user_options = [('pytest-args=', 'a', "Arguments to pass to py.test")]
